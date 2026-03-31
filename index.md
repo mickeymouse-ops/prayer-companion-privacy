@@ -2,13 +2,13 @@
 
 **Last updated:** 25 March 2026
 
-Prayer Companion ("the app") is designed to provide a calm space for prayer and reflection. Your privacy is important to us, and we are committed to being transparent about how the app works and how data is handled.
+(Guided) Prayer Companion ("the app") is designed to provide a calm space for prayer and reflection. Your privacy is important to us, and we are committed to being transparent about how the app works and how data is handled.
 
 ---
 
 ## 1. Information We Collect
 
-Prayer Companion does **not require you to create an account** and does **not collect personal information** such as your name, email address, or contact details.
+(Guided) Prayer Companion does **not require you to create an account** and does **not collect personal information** such as your name, email address, or contact details.
 
 The app does not request access to your camera, microphone, contacts, or location.
 
@@ -32,7 +32,7 @@ Prayers generated in the app are created based on the selections you make (such 
 
 ## 4. Payments and Subscriptions
 
-Prayer Companion offers optional subscriptions and one-time purchases.
+(Guided) Prayer Companion offers optional subscriptions and one-time purchases.
 
 All payments are processed securely by **Apple (App Store)** or **Google Play**, depending on your platform. We do not collect, store, or have access to your payment information.
 
